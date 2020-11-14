@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data and cache files
+*.txt
+*.csv
+*.jpg
+*.png
+
+# Other stuff
+trash/
+2020-*/
