@@ -133,6 +133,7 @@ dmypy.json
 *.csv
 *.jpg
 *.png
+*.zip
 
 # Other stuff
 trash/
